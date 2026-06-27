@@ -36,6 +36,7 @@ The proposed approach demonstrates improved performance over baseline methods th
 
 ## Research Paper
 
+- **[Research Paper](Research_Paper.pdf)**
 The complete methodology, experiments, and analysis are available in the accompanying research paper included in this repository.
 
 ## Author
